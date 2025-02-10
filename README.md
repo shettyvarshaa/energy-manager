@@ -98,7 +98,7 @@ Description: A Python and MySQL project for tracking electrical equipment, opera
 
 1. Clone this repo:
 ```
-git clone https://github.com/siliconvolley/dbms-mini-project.git
+git clone https://github.com/shettyvarshaa/energy-manager.git
 ```
 2. Install the dependencies:
 ```
